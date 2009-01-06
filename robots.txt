@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/
+Disallow: /static/
+
+Sitemap: http://nourbaran.ir/sitemap.xml
+Sitemap: http://nourbaran.ir/sitemap_index.xml
+
